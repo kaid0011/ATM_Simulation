@@ -1,0 +1,56 @@
+C:\Users\KaiD\Desktop\C#\First WFA\First WFA\bin\Debug\First WFA.exe.config
+C:\Users\KaiD\Desktop\C#\First WFA\First WFA\bin\Debug\First WFA.exe
+C:\Users\KaiD\Desktop\C#\First WFA\First WFA\bin\Debug\First WFA.pdb
+C:\Users\KaiD\Desktop\C#\First WFA\First WFA\obj\Debug\First_WFA.Properties.Resources.resources
+C:\Users\KaiD\Desktop\C#\First WFA\First WFA\obj\Debug\First WFA.csproj.GenerateResource.cache
+C:\Users\KaiD\Desktop\C#\First WFA\First WFA\obj\Debug\First WFA.exe
+C:\Users\KaiD\Desktop\C#\First WFA\First WFA\obj\Debug\First WFA.pdb
+C:\Users\KaiD\Desktop\C#\First WFA\First WFA\obj\Debug\First_WFA.PickTransact.resources
+C:\Users\KaiD\Desktop\C#\First WFA\First WFA\obj\Debug\First WFA.csproj.CoreCompileInputs.cache
+C:\Users\KaiD\Desktop\C#\First WFA\First WFA\obj\Debug\First_WFA.Withdraw.resources
+C:\Users\KaiD\Desktop\C#\First WFA\First WFA\obj\Debug\First_WFA.Deposit.resources
+C:\Users\KaiD\Desktop\C#\First WFA\First WFA\obj\Debug\First_WFA.Balance.resources
+C:\Users\KaiD\Desktop\C#\First WFA\First WFA\obj\Debug\First_WFA.Transfer.resources
+C:\Users\KaiD\Desktop\C#\First WFA\First WFA\obj\Debug\First_WFA.Transact.resources
+C:\Users\KaiD\Desktop\C#\First WFA\First WFA\obj\Debug\First_WFA.admin.resources
+C:\Users\KaiD\Desktop\C#\First WFA\First WFA\obj\Debug\First WFA.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\School Works\1st Year\2nd SEM\Com prog\C#\First WFA\First WFA\bin\Debug\First WFA.exe.config
+C:\Users\PC\Desktop\School Works\1st Year\2nd SEM\Com prog\C#\First WFA\First WFA\bin\Debug\First WFA.exe
+C:\Users\PC\Desktop\School Works\1st Year\2nd SEM\Com prog\C#\First WFA\First WFA\bin\Debug\First WFA.pdb
+C:\Users\PC\Desktop\School Works\1st Year\2nd SEM\Com prog\C#\First WFA\First WFA\obj\Debug\First WFA.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\School Works\1st Year\2nd SEM\Com prog\C#\First WFA\First WFA\obj\Debug\First_WFA.admin.resources
+C:\Users\PC\Desktop\School Works\1st Year\2nd SEM\Com prog\C#\First WFA\First WFA\obj\Debug\First_WFA.Balance.resources
+C:\Users\PC\Desktop\School Works\1st Year\2nd SEM\Com prog\C#\First WFA\First WFA\obj\Debug\First_WFA.Transact.resources
+C:\Users\PC\Desktop\School Works\1st Year\2nd SEM\Com prog\C#\First WFA\First WFA\obj\Debug\First_WFA.Transfer.resources
+C:\Users\PC\Desktop\School Works\1st Year\2nd SEM\Com prog\C#\First WFA\First WFA\obj\Debug\First_WFA.Withdraw.resources
+C:\Users\PC\Desktop\School Works\1st Year\2nd SEM\Com prog\C#\First WFA\First WFA\obj\Debug\First_WFA.Deposit.resources
+C:\Users\PC\Desktop\School Works\1st Year\2nd SEM\Com prog\C#\First WFA\First WFA\obj\Debug\First_WFA.PickTransact.resources
+C:\Users\PC\Desktop\School Works\1st Year\2nd SEM\Com prog\C#\First WFA\First WFA\obj\Debug\First_WFA.Properties.Resources.resources
+C:\Users\PC\Desktop\School Works\1st Year\2nd SEM\Com prog\C#\First WFA\First WFA\obj\Debug\First WFA.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\School Works\1st Year\2nd SEM\Com prog\C#\First WFA\First WFA\obj\Debug\First WFA.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\School Works\1st Year\2nd SEM\Com prog\C#\First WFA\First WFA\obj\Debug\First WFA.exe
+C:\Users\PC\Desktop\School Works\1st Year\2nd SEM\Com prog\C#\First WFA\First WFA\obj\Debug\First WFA.pdb
+C:\Users\PC\Desktop\School Works\1st Year\2nd SEM\Com prog\C#\First WFA\First WFA\bin\Debug\First WFA.exe.manifest
+C:\Users\PC\Desktop\School Works\1st Year\2nd SEM\Com prog\C#\First WFA\First WFA\bin\Debug\First WFA.application
+C:\Users\PC\Desktop\School Works\1st Year\2nd SEM\Com prog\C#\First WFA\First WFA\obj\Debug\First WFA.exe.manifest
+C:\Users\PC\Desktop\School Works\1st Year\2nd SEM\Com prog\C#\First WFA\First WFA\obj\Debug\First WFA.application
+C:\Users\PC\Desktop\SchoolWorks\1st Year\2nd SEM\Com prog\C#\First WFA\First WFA\bin\Debug\First WFA.exe.config
+C:\Users\PC\Desktop\SchoolWorks\1st Year\2nd SEM\Com prog\C#\First WFA\First WFA\bin\Debug\First WFA.exe.manifest
+C:\Users\PC\Desktop\SchoolWorks\1st Year\2nd SEM\Com prog\C#\First WFA\First WFA\bin\Debug\First WFA.application
+C:\Users\PC\Desktop\SchoolWorks\1st Year\2nd SEM\Com prog\C#\First WFA\First WFA\bin\Debug\First WFA.exe
+C:\Users\PC\Desktop\SchoolWorks\1st Year\2nd SEM\Com prog\C#\First WFA\First WFA\bin\Debug\First WFA.pdb
+C:\Users\PC\Desktop\SchoolWorks\1st Year\2nd SEM\Com prog\C#\First WFA\First WFA\obj\Debug\First WFA.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\SchoolWorks\1st Year\2nd SEM\Com prog\C#\First WFA\First WFA\obj\Debug\First_WFA.admin.resources
+C:\Users\PC\Desktop\SchoolWorks\1st Year\2nd SEM\Com prog\C#\First WFA\First WFA\obj\Debug\First_WFA.Balance.resources
+C:\Users\PC\Desktop\SchoolWorks\1st Year\2nd SEM\Com prog\C#\First WFA\First WFA\obj\Debug\First_WFA.Transact.resources
+C:\Users\PC\Desktop\SchoolWorks\1st Year\2nd SEM\Com prog\C#\First WFA\First WFA\obj\Debug\First_WFA.Transfer.resources
+C:\Users\PC\Desktop\SchoolWorks\1st Year\2nd SEM\Com prog\C#\First WFA\First WFA\obj\Debug\First_WFA.Withdraw.resources
+C:\Users\PC\Desktop\SchoolWorks\1st Year\2nd SEM\Com prog\C#\First WFA\First WFA\obj\Debug\First_WFA.Deposit.resources
+C:\Users\PC\Desktop\SchoolWorks\1st Year\2nd SEM\Com prog\C#\First WFA\First WFA\obj\Debug\First_WFA.PickTransact.resources
+C:\Users\PC\Desktop\SchoolWorks\1st Year\2nd SEM\Com prog\C#\First WFA\First WFA\obj\Debug\First_WFA.Properties.Resources.resources
+C:\Users\PC\Desktop\SchoolWorks\1st Year\2nd SEM\Com prog\C#\First WFA\First WFA\obj\Debug\First WFA.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\SchoolWorks\1st Year\2nd SEM\Com prog\C#\First WFA\First WFA\obj\Debug\First WFA.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\SchoolWorks\1st Year\2nd SEM\Com prog\C#\First WFA\First WFA\obj\Debug\First WFA.exe.manifest
+C:\Users\PC\Desktop\SchoolWorks\1st Year\2nd SEM\Com prog\C#\First WFA\First WFA\obj\Debug\First WFA.application
+C:\Users\PC\Desktop\SchoolWorks\1st Year\2nd SEM\Com prog\C#\First WFA\First WFA\obj\Debug\First WFA.exe
+C:\Users\PC\Desktop\SchoolWorks\1st Year\2nd SEM\Com prog\C#\First WFA\First WFA\obj\Debug\First WFA.pdb
